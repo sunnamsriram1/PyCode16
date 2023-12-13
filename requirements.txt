@@ -1,13 +1,11 @@
 
 # Import Modules
-pip install os
-pip install sys
-pip install zlib
-pip install time
-pip install base64
-pip install marshal
-pip install py_compile
-pip install colorama
-pip install colorama
-pip install datetime
-pip install pytz
+os-sys
+zlib
+time
+base64
+marshal
+py_compile
+colorama
+datetime
+pytz
